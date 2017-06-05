@@ -1,2 +1,2 @@
 # fff
-Fictional Functional Framework
+fictional functional framework
